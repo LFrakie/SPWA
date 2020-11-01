@@ -1,5 +1,5 @@
 {
-  "name": "TodoABC",
+  "name": "SPWA",
   "short_name": "Todo ABC",
   "description": "Un buscador simple",
   "start_url": "./index.html?utm=homescreen",
