@@ -1,6 +1,6 @@
 {
   "name": "SPWA",
-  "short_name": "Todo ABC",
+  "short_name": "SPWA",
   "description": "Un buscador simple",
   "start_url": "./index.html?utm=homescreen",
   "display": "standalone",
