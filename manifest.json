@@ -1,7 +1,7 @@
 {
   "name": "SPWA",
   "short_name": "SPWA",
-  "description": "Un buscador simple",
+  "description": "El Titulo",
   "start_url": "./index.html?utm=homescreen",
   "display": "standalone",
   "orientation": "portrait",
